@@ -1,6 +1,6 @@
 # ⚡  Jair Aparicio
 
-Frontend Developer
+`Frontend Developer`
 
 Hi! My name is Jair, and I am passionate about frontend development and building engaging user experiences. Whether I'm creating responsive websiites, optimising performance, or researching the latest frontend technology my repositories to view some of my projects, and please contact me if you want to collaborate or have any queries. Let us work together to create something extraordinary!
 
@@ -8,16 +8,5 @@ Hi! My name is Jair, and I am passionate about frontend development and building
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](YOUR_URL)
 
 ## :hammer: Here are the tools, libraries, technologies, and frameworks I've worked with:
-HTML5
-CSS
-JavaScript
-React
-Next.JS
-Typescript
-Redux
-TailwindCSS
-GIT
-Github
-MaterialUI
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,git,github,materialui)](https://skillicons.dev)
